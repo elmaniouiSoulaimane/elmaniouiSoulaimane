@@ -2,8 +2,9 @@
 ## A full-stack software developer 🐱‍💻
 
 * I really enjoy writing code and developing programs and software.
-* Right now I'm focusing on the following technologies :
-    * Front-end : React.js
-    * Back-end : C#, PHP, Java.
-    * 
-* To be honest one connot determine for sure the list of technologies that will focus on since every project requires a technologies with specific capabilities.   
+* Below you find a list of links to projects that you can acceess :
+   * [Taxe-Flow (Back-end).](https://github.com/elmaniouiSoulaimane/Tax-Flow-Back-end)
+   * [Go Service.](https://github.com/elmaniouiSoulaimane/Gestion-Des-Services)
+   * [Potion.](https://github.com/elmaniouiSoulaimane/Potion-v1.0)
+   * [Pixatopia.](https://github.com/elmaniouiSoulaimane/Pixatopia)
+
