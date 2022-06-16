@@ -8,4 +8,3 @@
    * [Potion👩‍⚕️.](https://github.com/elmaniouiSoulaimane/Potion-v1.0)
    * [Pixatopia👾.](https://github.com/elmaniouiSoulaimane/Pixatopia)
    
-I'd love to participate on building or developing an existing project for fun, you can hit me up in : selmanioui@gmail.com
